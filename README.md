@@ -1,5 +1,4 @@
-# Website
-##关于Android的知识
+# 关于Android的知识
  1. [HTTP的构架](https://zhuanlan.zhihu.com/p/24314977)  
  2. [静态默认安装与卸载应用](http://blog.csdn.net/jiangwei0910410003/article/details/36427963)
  3. [Dagger2使用与详情](http://zpayh.xyz/2016/07/07/Dagger2%E4%BD%BF%E7%94%A8%E8%AF%A6%E8%A7%A3/)
