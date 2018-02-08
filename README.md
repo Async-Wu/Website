@@ -9,3 +9,4 @@
  7. [Handler机制详解](https://www.cnblogs.com/JczmDeveloper/p/4403129.html)
  8. [中介者模式](https://juejin.im/post/5a72c05951882522b552ad3b)
  9. [Android热更新技术研究](http://blog.csdn.net/u012513972/article/details/78269288)
+ 10.[Android组件化和插件化开发](https://www.cnblogs.com/android-blogs/p/5703355.html)
