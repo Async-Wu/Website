@@ -10,3 +10,4 @@
  9. [Android热更新技术研究](http://blog.csdn.net/u012513972/article/details/78269288)
  10. [Android组件化和插件化开发](https://www.cnblogs.com/android-blogs/p/5703355.html)
  11. [你真的会用Gson吗?Gson使用指南](https://www.jianshu.com/p/e740196225a4)
+ 12. [你应该知道的那些Android小经验](https://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=404388098&idx=1&sn=8bbbba7692dca68cdda2212dec4d86c0&scene=1&srcid=0320gXPloap70ixGeYnNUaAW#wechat_redirect)
