@@ -16,3 +16,4 @@
 15. [app动态引导页的制作](http://blog.csdn.net/qq_31530015/article/details/51302784)
 16. [知道这20个正则表达式，能让你少写1,000行代码](https://www.jianshu.com/p/e7bb97218946)
 17. [Android主题换肤 无缝切换](https://www.jianshu.com/p/af7c0585dd5b)
+18. [android MVP模式介绍与实战](http://dahei.me/2016/06/22/mvp/android%20MVP%E6%A8%A1%E5%BC%8F%E4%BB%8B%E7%BB%8D%E4%B8%8E%E5%AE%9E%E6%88%98/)
