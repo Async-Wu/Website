@@ -12,3 +12,4 @@
  11. [你真的会用Gson吗?Gson使用指南](https://www.jianshu.com/p/e740196225a4)
  12. [你应该知道的那些Android小经验](https://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=404388098&idx=1&sn=8bbbba7692dca68cdda2212dec4d86c0&scene=1&srcid=0320gXPloap70ixGeYnNUaAW#wechat_redirect)
 13. [APP架构经验总结](http://keeganlee.me/post/architecture/20160303)
+14. [Android防止连续点击打开两个重复页面的小技巧](http://mafei.me/2016/04/12/Android-%E9%98%B2%E6%AD%A2%E8%BF%9E%E7%BB%AD%E7%82%B9%E5%87%BB%E6%89%93%E5%BC%80%E4%B8%A4%E4%B8%AA%E9%87%8D%E5%A4%8D%E9%A1%B5%E9%9D%A2%E7%9A%84%E5%B0%8F%E6%8A%80%E5%B7%A7/)
