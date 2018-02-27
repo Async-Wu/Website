@@ -20,3 +20,4 @@
 19. [图解 Android 事件分发机制](https://www.jianshu.com/p/e99b5e8bd67b)
 20. [酷炫的Activity切换动画，打造更好的用户体验](http://blog.csdn.net/huachao1001/article/details/51659963)
 21. [安卓Android轻松完成支付宝支付教程](http://blog.csdn.net/u013003052/article/details/51838224)
+22. [Android Studio SVN 使用方法](http://blog.csdn.net/Android_Study_OK/article/details/51387677)
